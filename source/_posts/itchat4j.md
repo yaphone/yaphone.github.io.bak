@@ -28,7 +28,7 @@ title: itchat4j -- 用Java扩展个人微信号的能力
 - Anything you want ...
 
 
-
+<!-- more -->
 
 ## API说明
 
